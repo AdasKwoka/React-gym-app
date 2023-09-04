@@ -19,6 +19,13 @@
         "arrow-body-style": ["error", "as-needed"],
         "no-unused-expressions": "off",
         "import/prefer-default-export": "off",
-        "react/jsx-props-no-spreading": "off"
+        "react/jsx-props-no-spreading": "off",
+        "react/prop-types": "off",
+        "react/no-array-index-key": "off",
+        "object-curly-newline": "off",
+        "react/function-component-definition": "off",
+        "react/jsx-one-expression-per-line": "off",
+        "implicit-arrow-linebreak": "off",
+        "operator-linebreak": "off"
     }
 }
