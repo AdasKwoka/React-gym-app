@@ -1,0 +1,8 @@
+# Directories
+scripts/
+node_modules/
+config/
+build/
+
+# Files
+.eslintrc
